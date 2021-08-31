@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brunostano
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning CS50 - Harvard University
+- 💞️ I’m looking to collaborate on Nothing for now.
+- 📫 How to reach me www.brunostano.com
